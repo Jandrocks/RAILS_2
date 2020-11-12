@@ -1,4 +1,10 @@
 class PagesController < ApplicationController
-  def index
+  def left
+  end
+
+  def right
+  end
+
+  def no_sidebar
   end
 end
